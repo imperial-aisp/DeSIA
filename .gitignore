@@ -1,0 +1,7 @@
+*.csv
+*.zip
+
+.vscode
+__pycache__
+datasets
+tmp*
